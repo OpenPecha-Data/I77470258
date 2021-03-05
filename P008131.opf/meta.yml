@@ -1,15 +1,16 @@
-id: opecha:P008131
+id: P008131
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC288
   title: 'རྒུད། '
-  volume:
+  author: ''
+  volumes:
     51a07a9eaad641aeae3e85cc9e23ed32:
       image_group_id: I2PD17794
       title: Volume 1 of rgud/
       volume_number: 1
       total_pages: 346
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: 'རྒུད། '
   author: ''
