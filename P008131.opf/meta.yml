@@ -5,11 +5,12 @@ source_metadata:
   title: 'རྒུད། '
   author: ''
   volumes:
-    ddc2fc5722fe4001bf57cfd50adffa65:
+    51a07a9eaad641aeae3e85cc9e23ed32:
       image_group_id: I2PD17794
-      title: ''
+      title: Volume 1 of rgud/
       volume_number: 1
       total_pages: 346
+      base_file: v001.txt
 ebook_metadata:
   title: 'རྒུད། '
   author: ''
